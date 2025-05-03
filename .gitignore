@@ -29,6 +29,8 @@ Logs/
 # Ignore Visual Studio Code settings
 .vscode/
 .vs/
+**/.vscode/
+**/.vs/
 *.pidb
 *.sdf
 *.mdf
